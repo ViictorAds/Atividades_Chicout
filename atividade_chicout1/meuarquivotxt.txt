@@ -1,0 +1,3 @@
+Hello, World!
+Isso é uma adição!
+Eu amo Java e com Java vou continuar!
